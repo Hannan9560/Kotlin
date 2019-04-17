@@ -1,0 +1,1 @@
+data class Person (var firstName: String, var lastname: String, var age: Int)
